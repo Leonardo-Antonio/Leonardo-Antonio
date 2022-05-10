@@ -7,7 +7,7 @@
 
 - 💬 Tecnología **Go, Fiber, Echo, Nodejs, NestJS, MongoDB, Nuxt, Vue, MongoDB, OS. GNU/Linux...**
 
-- 📫 <a href="tel:+51996501260">996 501 260</a> **leo2001.nl08@gmail.com**
+- 📫 [+51 996-501-260](tel:+51996501260) **leo2001.nl08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
