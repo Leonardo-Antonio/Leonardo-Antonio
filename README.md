@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardo-antonio" alt="leonardo-antonio" /></a> </p>
 
 - 💬 Tecnología **Go, Fiber, Echo, Nodejs, NestJS, MongoDB, Nuxt, Vue, MongoDB, OS. GNU/Linux...**
-- 📫 **+51 996-501-260** **leo2001.nl08@gmail.com**
+- 📫 **+51 912 073 401** **leo2001.nl08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
